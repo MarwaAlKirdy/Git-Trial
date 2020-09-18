@@ -1,3 +1,4 @@
+![](Marwa.jpg) 
 # Marwa Al-Kirdy
 **Address:** Kaskas, Beirut, Lebanon
 
@@ -14,7 +15,7 @@ of succeeding as primary part of the company.
 
 > ## Education
 ---
-Bachelor of Science in Computer
+**2014 – 2018** Bachelor of Science in Computer
 Science
 Lebanese University Faculty of Science II -Fanar, Lebanon
 
@@ -69,3 +70,4 @@ activities, trips, dinners, ... for children in need.
 **Movies** 🎥️
 
 **Swimming** 🏊‍♀️️
+
